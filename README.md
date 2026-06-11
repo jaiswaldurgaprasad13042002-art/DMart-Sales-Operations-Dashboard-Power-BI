@@ -29,21 +29,29 @@ Order-level retail dataset containing fields like:
 - KPIs: **Total Revenue, Total Orders, Average Order Value (AOV), Cancellation Rate**
 - Sales trend by month/year
 - Category/product performance
+  
+![Sales_Overview](Screenshot%202026-06-09%20165319.png)
 
 ### 2) Customer Insights
 - Customer analysis by **Age** and **Gender**
 - Relationship between **Clicks** and **Order Value**
 - Customer engagement patterns
 
+![Customer_Insights](Screenshot%202026-06-09%20165340.png)
+
 ### 3) Product & Pricing Analysis
 - Category-wise and product-wise performance
 - Comparison of **MRP vs Discount Price**
 - Pricing/discount impact on revenue
 
+![Product & Pricing Analysis](Screenshot%202026-06-09%20165405.png)
+
 ### 4) Operations & Payments
 - Order status distribution (Completed/Cancelled/Returned)
 - **Average delivery days** and shipping performance
 - Payment method and payment status analysis
+
+![Operations & Payments](Screenshot%202026-06-09%20165426.png)
 
 ## Key KPIs (Example)
 - **Total Revenue**
